@@ -10,7 +10,7 @@
 
 ![스크린샷2](homework2.png)
 
-## Homework3
+## Homework2
 [SortAnimation](SortAnimation.pde)
 https://youtu.be/LeIMAXMhqFM
 
