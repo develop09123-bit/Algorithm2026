@@ -17,4 +17,6 @@ https://youtu.be/LeIMAXMhqFM
 [Array](Array.pde)
 https://youtu.be/HuCLbBGY5so
 
-
+## Homework3
+[BinarySearchTree](BinarySearchTree)
+https://youtu.be/bLPoS2Csshc
