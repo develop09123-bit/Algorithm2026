@@ -14,6 +14,18 @@
 
 ![스크린샷3](homework3.png)
 
+[Insertion](Insertion.pde)
+
+![스크린샷](homework4.png)
+
+[Merge](Merge.pde)
+
+![스크린샷](homework5.png)
+
+[Quick](Quick.pde)
+
+![스크린샷](homework6.png)
+
 ## Homework2
 [SortAnimation](SortAnimation.pde)
 https://youtu.be/LeIMAXMhqFM
