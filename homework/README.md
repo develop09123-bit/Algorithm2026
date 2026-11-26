@@ -51,4 +51,4 @@ https://youtu.be/bLPoS2Csshc
 
 ## Homework7
 [Minimum_Spanning_Tree](Minimum_Spanning_Tree.pde)
-![스크린샷](hoemwork11.png)
+![스크린샷](homework11.png)
