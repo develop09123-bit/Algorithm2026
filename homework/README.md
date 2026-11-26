@@ -42,8 +42,7 @@ https://youtu.be/bLPoS2Csshc
 ![스크린샷](homework7.png)
 
 ## Homework5
-[Pebble_Placement_Problem](Pebble_Placement_Problem.pde)
-![스크린샷](homework10.png)
+
 
 ## Homework6
 [Ordered_Pair_Of_Vertices](Ordered_Pair_Of_Vertices.pde)
